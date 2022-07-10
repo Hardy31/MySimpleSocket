@@ -1,7 +1,26 @@
 https://www.youtube.com/watch?v=eGodWx-Jnmo&list=PLyxk-1FCKqockmP-fXZmHQ7UlYP3qvZRa&index=88
 Выпуск 88. Сетевое взаимодействие - базовые протоколы IP, TCP, UDP.
 
-Теория
+…or create a new repository on the command line
+echo "# MySimpleSocket" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Hardy31/MySimpleSocket.git
+git push -u origin main
 
-Практика
+Теория 0.50 -
+3-20 оправка пакетами
+3-40    адрес компьютера  и порт
+
+        IP Internet Protocol (IP, досл. «межсетевой протокол») — маршрутизируемый протокол сетевого уровня стека TCP/IP
+7-0     TCP Transmission Control Protocol (TCP, протокол управления передачей)
+7-50    UDP (англ. User Datagram Protocol — протокол пользовательских датаграмм)
+9-05    Сново о TCP
+9-40    Socket Сокет (англ. socket — разъём) — название программного интерфейса для обеспечения обмена данными между процессами.
+
+
+Практика 11-46
+
 
